@@ -1,0 +1,16 @@
+{
+  "name": "midi-message-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg ./midi-cli.js -t node18-win "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@julusian/midi": "^3.6.1"
+  }
+}
